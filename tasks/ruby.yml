@@ -1,0 +1,3 @@
+---
+- name: install ruby
+  apt:  name=ruby
